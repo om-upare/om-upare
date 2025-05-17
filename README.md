@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @om-upare
-- 👀 I’m interested in learning new technologies which enhance my knowledge.
-- 🌱 I’m currently learning Front-End Development.
+- 👀 I’m interested in learning new technologies which enhances my knowledge.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any kind of projects which help's me in learning new things.
 - 📫 How to reach me Email - omupare456@gmail.com
 - ---✏️ KEEP LEARNING ❤️---
